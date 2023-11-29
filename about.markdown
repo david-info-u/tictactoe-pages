@@ -12,3 +12,6 @@ and Jekyll at GitHub:
 [jekyll](https://github.com/jekyll/jekyll)
 
 This GitHub pages is built for our [TicTacToe](https://d-techpro.net) gaming site!
+
+
+[jekyll-organization]: https://github.com/jekyll
