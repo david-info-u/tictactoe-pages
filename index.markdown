@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+The [TicTacToe](https://d-techpro.net) Gaming site.
+The site is built with Dotnet core () and Orleans (). The original source code is from the dotnet code samples ().
